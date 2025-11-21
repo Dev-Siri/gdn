@@ -18,3 +18,4 @@ bin
 
 .cache
 gdn.json
+.DS_Store
