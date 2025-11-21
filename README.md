@@ -38,6 +38,6 @@ To use GDN, you need to provide a `gdn.json` configuration file which accepts th
 - `log`: A boolean value to enable or disable structured logging. Set to `true` to enable logging or `false` to disable it.
 - `cache_dir`: The directory where GDN will store cached files.
 
-# License
+## License
 
 This project is [MIT](LICENSE.md) Licensed.
